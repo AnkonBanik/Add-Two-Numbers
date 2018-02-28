@@ -4,7 +4,7 @@ package javaapplication1;
 
 /**
  *
- * @author Ankoin
+ * @author Ankon
  */
 import java.util.Scanner;
 public class JavaApplication1 {
